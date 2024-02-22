@@ -1,0 +1,33 @@
+.body{
+    background-image: url("https://mocah.org/uploads/posts/4383-coolest-pictures-ever-of-nature__coolest-pictures-ever-of-nature.jpg");
+  
+}
+.header{
+     background-color: aqua;
+    
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 50px;
+}
+.title{
+    text-align: center;
+    font-size: 60px;
+}
+.text{
+    text-align: center;
+    border: 2px double aqua;
+    width: 500px;
+    margin-left: 500px;
+
+}
+.button{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 30px;
+    border: 2px double aqua;
+    width: 200px;
+    margin-left: 700px;
+
+}

@@ -1,0 +1,70 @@
+.me{
+    text-align: center;
+}
+body{
+    background-color: silver;
+}
+.header{
+    font-family: 'Courier New', Courier, monospace;
+    width: 100%;
+}
+.image{
+    width: 250px ;
+    border-radius: 80px;
+    border: 3px solid rgba(0, 128, 0, 0);
+    margin:0px 50px -200px;
+}
+.job{
+    align-self: center;
+    position: absolute;
+    background-color: bisque;
+    top: 300px;
+    height: 300px;
+    width: 1330px ;
+    border-radius: 80px;
+    border-color: black;
+}
+.text{
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.job1{
+    align-self: center;
+    position: absolute;
+    background-color: rgb(253, 194, 121);
+    top: 650px;
+    height: 300px;
+    width: 1330px ;
+    border-radius: 80px;
+    border-color: black;
+}
+.job2{
+    align-self: center;
+    position: absolute;
+    background-color: rgb(253, 178, 85);
+    top: 1000px;
+    height: 300px;
+    width: 1330px ;
+    border-radius: 80px;
+    border-color: black;
+}
+.text2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    margin-top: 50px;
+    margin-left: 40px;
+    color: black;
+}
+.exp{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1000px;
+    margin-top: -10px;
+} 
+footer{
+    padding-top: 1300px;
+    text-align: center;
+}
+

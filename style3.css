@@ -1,0 +1,97 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+.name{
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 700px;
+}
+.name h2{
+    color: khaki;
+    font-size: 50px;
+    margin-top: 22px;
+    margin-left: 6px;
+}
+.name p {
+    margin-top: 27px;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    color: silver;
+}
+.title{
+    text-align: center;
+    margin-top: -60px;
+    margin-left: 100px;
+    color: silver;
+}
+.image{
+   
+    margin-left: 80px;
+    margin-top: -120px;
+    width: 500px;
+    
+}
+.contact{
+    margin-left: 60px;
+    margin-top: 60px;
+    font-size: 30px;
+}
+.experience{
+    width: 500px;
+    margin-left: 600px;
+    margin-top: -300px;  
+}
+.education{
+    width: 500px;
+    margin-left: 600px;
+    margin-top: 50px;
+}
+.profile{
+    width: 200px;
+    margin-left: 50px;
+    margin-top: -410px;
+}
+.skills h5{
+    font-size: 20px;
+    margin-left: 50px;
+}
+.skills h1{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.interests{
+    margin-left: 50px;
+}
+.languages{
+    margin-left: -200px;
+    text-align: center;
+    margin-top: -250px;
+}
+.second_line{
+    margin-left: 150px;
+    margin-top: -130px;
+
+}
+.first_line{
+    margin-left: -200px;
+    
+}
+.computer{
+    text-align: center;
+    margin-left: 400px;
+    margin-top: -205px;
+}
+.first_line_comp{
+    margin-left: -100px;
+    margin-top: 20px;
+}
+.second_line_comp{
+    margin-left: 200px;
+    margin-top: -141px;
+}
+footer{
+    margin-top: 200px;
+}
